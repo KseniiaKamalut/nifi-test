@@ -106,8 +106,8 @@
       "name" : "AttributesToCSV1",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -170.49993425251978,
-        "y" : -185.66664285041833
+        "x" : -320.0,
+        "y" : -312.0
       },
       "properties" : {
         "Include Schema" : "false",
@@ -180,6 +180,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "Nifi-test-flow-name",
-    "timestamp" : 1774834942030
+    "timestamp" : 1774840197739
   }
 }
