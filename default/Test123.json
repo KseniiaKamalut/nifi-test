@@ -9,7 +9,7 @@
     "versionCount" : 0
   },
   "flowContents" : {
-    "comments" : "",
+    "comments" : "test",
     "componentType" : "PROCESS_GROUP",
     "connections" : [ ],
     "controllerServices" : [ ],
@@ -41,7 +41,7 @@
         "group" : "org.apache.nifi",
         "version" : "2.8.0"
       },
-      "comments" : "",
+      "comments" : "test",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
@@ -96,7 +96,7 @@
         "group" : "org.apache.nifi",
         "version" : "2.8.0"
       },
-      "comments" : "",
+      "comments" : "test",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
