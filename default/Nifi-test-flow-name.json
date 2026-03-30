@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1774834941081,
+    "description" : "Nifi test flow desc",
+    "identifier" : "Nifi-test-flow-name",
+    "lastModifiedTimestamp" : 1774834941081,
+    "name" : "Nifi test flow name",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
